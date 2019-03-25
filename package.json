@@ -1,6 +1,6 @@
 {
-  "name": "swipeable-list",
-  "version": "0.1.0",
+  "name": "swipe-to-act-list",
+  "version": "0.0.0",
   "private": true,
   "dependencies": {
     "react": "^16.8.5",
